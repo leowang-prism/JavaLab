@@ -224,9 +224,6 @@
         <mxCell id="HWVIOXMQ4AxRaVNNL75A-84" value="方法区" style="text;align=center;verticalAlign=middle;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="655" y="1127" width="105" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="ozYUSrGGoveBqoh_S9vd-3" value="" style="shape=stencil(lVhJchsxDHyNriiC4Hp2nH+4ynKkimK5ZGX7fTBRcTQEZzrOTeI0SBBrgzt5eD88ve133r1fL+ev+5/H5+thJ5923h9fD/vL8aq/dvK4k4eX82X/5XL+/vp8+//2NCGnX9/OP6Ydft3kJFKuk5R3v28rjjj8Xfh8w5+Or0t8JSkdninINj4EiqHDC0naxkemlDp8IscAX6n2+1fiuI1Ppak76+8pgQNyIukNxIm4bgsUoWhOmHVcF1CNXSegNoplW6Dq59gLZApApZqocu8ETwwuXQvV3Atkim5bgJ0j118iCCVw61qp9DpFRwkcoTqF3hExU0ZmSuT7E1LAAp5yH0uZmy/XPVdI+ktnrJLGhhHQleBB9BUbfWVeWRcI9gS9VUDxzdasNZIHjkvquD6+aybOMOXY9wKVHBJQN/V3WITXuoRrKs9HFOi5GG1s6CUE6BT0sxFI8NaaMC5ZuzKofFroYp9zVWsn8Bzn9nkh4EEwsWuxthBwIJgi1QHPILzdUIs9eXBltrVY8ai0MtUB74GFvE0exQsIbc3/bPERNcPWmhb4AhwgrejOeGmpsbV/sHjUbOfTF/gM7ROSxVe4v71vgInMKwGK2g6v7Q+auRsyRqiA+BmrhDS2sYEf7S8w/k0PVDyyjxsKo0Yg1GeMZ9SVneV2U/xD+/tk8R51/abtB/NXd4vD/hCfBnwA9vRUB3zG+WXsoysYXyxeYL7UId8T2F+9OehTUMtoDWWZL1AfHjoMwsd2+gf9pQ0mDuTDg4TRFjZ6GI0H2iTLIIC48sRbo7Upo4GlDEERYFDENHSxiOnNWEZT4wrrAnHIm9w61bpAHgpdgo1SOZ139tKo0mXfbDILaLFHRDZZs5aMubWzyVw8TJ6i0WrYe8ZDjmtkZkH3kaenuavPH2WqAfQnDQQ74+SW4usC2XaEOPe4LQFDS3XsKujSqTGgxWRX0FAULGnU2TGjOzBJL+ALtFLJlhZ5HQCQANs5bepcgKfpUGQEGPshaZnpPc2h1f71IjA+K+g0i6j1/MwyBx+cfoP2kr4WR/guol5Nfb4JfBeRYJOBYYmRmWnd8Qmks4h911Hyj6i1WO6oLsb7B+NibB9pTOL+7oUmd5mfZO74CGq24rPdHzU2tb/hmg5SL8VLMngUoIrPbPHIPtFyHTyBKz5Ei0f+/d93x3/i9cf9kfPleDrd3kiX3+2jqC7dHlTl8Q8=);lineShape=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="311.21136971566875" y="883.4179552316737" width="124.20566965579867" height="201.11691881357788" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
